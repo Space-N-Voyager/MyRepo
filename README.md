@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ankit
+# Hi there! 👋
 
 I'm a computer science student passionate about coding and building cool stuff. Here are some things about me:
 
